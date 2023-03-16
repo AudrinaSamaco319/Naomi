@@ -3,6 +3,5 @@ search = document.querySelector('.search')
 
 
 button.addEventListener('click',() => {
-    console.log("HELLO")
     search.classList.toggle('active')
 })
