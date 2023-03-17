@@ -10,4 +10,13 @@ sounds.forEach(sound => {
     })
 
     document.getElementById('button').appendChild(btn)
+
 })
+
+Function stopSongs() {
+    sounds.forEach(sound => {
+        const song = document.getElementById(sound)
+        song.pause()
+        song.currentTime = 0
+    })
+}
