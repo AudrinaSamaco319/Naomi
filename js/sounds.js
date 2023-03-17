@@ -9,8 +9,8 @@ sounds.forEach(sound => {
         document.getElementById(sound).play()
     })
 
-    document.getElementById('button').appendChild(btn)
 
+    document.getElementById('button').appendChild(btn)
 })
 
 Function stopSongs() {
