@@ -10,10 +10,12 @@ body {
 }
 
 .container {
-
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 400px;
 }
 
-.squares {
+.square {
     height: 10px;
     width: 16px;
     margin: 2px;
