@@ -14,7 +14,6 @@ counters.forEach(counter => {
         }   else {
             counter.innerText = target
         }
-        }
     }
 
     updateCounter()
