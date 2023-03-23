@@ -8,3 +8,14 @@ body {
     margin: 0;
     overflow: hidden;
 }
+
+.container {
+
+}
+
+.squares {
+    height: 10px;
+    width: 16px;
+    margin: 2px;
+    background-color: #1d1d1d;
+}
