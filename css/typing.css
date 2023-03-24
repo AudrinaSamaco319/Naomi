@@ -1,10 +1,9 @@
 body {
-    font-family: 'Roboto', sans-serif;
     background-color: darksalmon;
     display: flex;
     flex-direction: column;
     height: 100vh;
-    justify content: center;
+    justify-content: center;
     align-items: center;
     overflow: hidden;
     margin: 0;
