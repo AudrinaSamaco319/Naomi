@@ -1,0 +1,16 @@
+body {
+    display: flex
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    overflow: hidden;
+    background-color: green;
+    letter-spacing: 1px;
+}
+
+a {
+    margin: 0;
+    opacity: 0.5;
+    word-spacing: 2px;
+}
