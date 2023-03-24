@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: darksalmon;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify content: center;
+    align-items: center;
+    overflow: hidden;
+    margin: 0;
+}
+
+.container {
+    position: absolute;
+    bottom: 20px;
+    padding: 10px 20px;
+    font-size: 18px;
+    background: rgba(0,0, 0, .3)
+}
+
+input {
+    width: 50px;
+    padding: 5px;
+    font-size: 18px;
+    background-color: darksalmon;
+    border: none;
+    text-align: center;
+}
+
+input:focus {
+    outline: none;
+}
