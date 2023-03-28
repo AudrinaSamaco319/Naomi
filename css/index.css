@@ -9,6 +9,15 @@ body {
     letter-spacing: 1px;
 }
 
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    background-color: #ffffff;
+    padding: 30px 30px;
+
+}
 h3 {
     margin: 0;
     opacity: 0.5;
