@@ -1,16 +1,20 @@
 body {
-    display: flex
+    display: flex;
     height: 100vh;
     align-items: center;
     justify-content: center;
     margin: 0;
     overflow: hidden;
-    background-color: green;
+    background-color: #F8C8DC;
     letter-spacing: 1px;
 }
 
-a {
+h3 {
     margin: 0;
     opacity: 0.5;
     word-spacing: 2px;
+}
+
+a {
+    margin: 20px;
 }
